@@ -1,3 +1,5 @@
+# v2
+
 # test
 first for test
 ## git 命令
@@ -13,9 +15,9 @@ first for test
 
 以当前分支为基础新建分支：`git checkout -b <branchname>`
 列举所有的分支：`git branch`
-单纯地切换到某个分支：git checkout <branchname>
-删掉特定的分支：git branch -D <branchname>
-合并分支：git merge <branchname>
+单纯地切换到某个分支：`git checkout <branchname>`
+删掉特定的分支：`git branch -D <branchname>`
+合并分支：`git merge <branchname>`
 
-推送当前分支最新的提交到远程：git push
-拉取远程分支最新的提交到本地：git pull
+推送当前分支最新的提交到远程：`git push`
+拉取远程分支最新的提交到本地：`git pull`
