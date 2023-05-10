@@ -1,0 +1,8 @@
+{
+  "calc1":{"a": 1 ,"b": 2 ,"expect":  3},
+  "calc2":{"a": 22 ,"b": 23 ,"expect": 45},
+  "calc3":{"a": 10 ,"b": 20 ,"expect": 30},
+  "calc4":{"a": 14 ,"b": 10 ,"expect": 24},
+  "calc5":{"a": 21 ,"b": 2 ,"expect": 23},
+  "calc6":{"a": 11 ,"b": 20 ,"expect": 31}
+}
